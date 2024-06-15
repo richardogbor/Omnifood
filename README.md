@@ -1,0 +1,1 @@
+A website for a resturant, built with HTML5 semantic tags, with all the UI/UX procedures taken in to consideration, from choosing colors, typograpy, visual hierarchy, also with advanced CSS3 properties like psudo classes transition and animation effects with cool JavaScript animated functionalities.
